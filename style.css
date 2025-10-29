@@ -13,7 +13,7 @@ body {
   flex-direction: column;
 }
 p {
-  font-size: 80px;
+  font-size: 65px;
   text-shadow: 3px 3px 5px black;
   margin-bottom: 30px;
   min-width: 100px;
@@ -23,7 +23,7 @@ p {
   border-radius: 50px;
   text-align: center;
   border: 3px solid black;
-  line-height: 80px;
+  line-height: 85px;
   box-shadow: 3px 3px 3px 3px black;
   padding: 5px;
 }
